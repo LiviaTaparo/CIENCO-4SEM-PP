@@ -38,9 +38,5 @@ public class Main {
 
         System.out.println("Salario Bruto " + salarioBruto + " Desconto inss " + inss+ " Desconto sindicato " + contribuicao +" Salario liquido: "+salarioLiquido);
 
-
-
-
-
     }
 }
